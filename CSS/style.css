@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Coiny&display=swap");
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin: 0;
+  line-height: 30px;
+}
+
+header {
+  background-color: rgb(157, 200, 209);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-image: url(https://preview.redd.it/ipyk89ehl9k11.jpg?width=1920&format=pjpg&auto=webp&s=efd5d8a2e4204c8ae97da50be186ad0403c90c82);
+}
+
+header img {
+  border-radius: 500px;
+  border: 20px solid #fff;
+}
+
+header h1 {
+  font-size: 70px;
+  color: #b872dd;
+  font-family: "Coiny", cursive;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+main img {
+  max-width: 100%;
+}
+
+h1,
+h2 {
+  font-family: "Coiny", cursive;
+}
+
+h2 {
+  font-size: 30px;
+  color: #b872dd;
+  margin: 40px 0px 10px;
+}
+
+main a {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #d587fe;
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer p {
+  margin: 0px;
+}
+
+footer a:hover {
+  opacity: 0.5;
+  background-color: transparent;
+}
+
+.caption {
+  color: rgb(62, 60, 60);
+  font-style: italic;
+  margin-top: 0px;
+}
